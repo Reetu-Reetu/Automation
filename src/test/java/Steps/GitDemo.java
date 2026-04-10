@@ -9,6 +9,7 @@ public class GitDemo {
     @Given("user is on login Page")
     public void userIsOnLoginPage() {
         System.out.println("hj");
+        System.out.println("user is on logon page");
     }
 
     @When("user enter valid username and password")
